@@ -1,0 +1,26 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AseelAlasaad/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AseelAlasaad/cloud-server/issues"
+  },
+  "homepage": "https://github.com/AseelAlasaad/cloud-server#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "socket.io": "^4.4.0",
+    "socket.io-client": "^4.4.0"
+  }
+}
